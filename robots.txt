@@ -6,4 +6,4 @@ Allow: /
 
 # Sitemap location
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://herimalalaandriananry-dotcom.github.io/KStar-Daily/sitemap.xml
