@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BTS",
+    "type": "K-Pop Group",
+    "description": "BTS is one of the most successful K-Pop groups in the world, known for global hits and a massive international fanbase.",
+    "image": "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?w=800",
+    "category": "K-Pop"
+  },
+  {
+    "name": "BLACKPINK",
+    "type": "K-Pop Group",
+    "description": "BLACKPINK is a global girl group famous for their music, fashion influence and worldwide performances.",
+    "image": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=800",
+    "category": "K-Pop"
+  },
+  {
+    "name": "IU",
+    "type": "Singer and Actress",
+    "description": "IU is a Korean singer and actress recognized for her powerful vocals, songwriting and drama roles.",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=800",
+    "category": "Biography"
+  },
+  {
+    "name": "Lee Min-ho",
+    "type": "Actor",
+    "description": "Lee Min-ho is a popular Korean actor known for many successful television dramas.",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800",
+    "category": "Actor"
+  },
+  {
+    "name": "Kim Soo-hyun",
+    "type": "Actor",
+    "description": "Kim Soo-hyun is one of South Korea's most recognized actors with many award-winning performances.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+    "category": "Actor"
+  },
+  {
+    "name": "NewJeans",
+    "type": "K-Pop Group",
+    "description": "NewJeans became one of the fastest-growing K-Pop groups with a fresh musical style.",
+    "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?w=800",
+    "category": "K-Pop"
+  }
+]

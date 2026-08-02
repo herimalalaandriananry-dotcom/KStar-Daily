@@ -1,0 +1,10 @@
+{
+"site_name":"KStar Daily",
+"version":"1.0",
+"theme":"Entertainment",
+"language":"en",
+"articles_per_page":10,
+"enable_search":true,
+"enable_dark_mode":true,
+"enable_pwa":true
+}

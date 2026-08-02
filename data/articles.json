@@ -1,0 +1,162 @@
+[
+{
+"title":"Top K-Pop Groups To Watch In 2026",
+"description":"Discover the most popular K-Pop groups, rising idols and global Korean music trends in 2026.",
+"image":"https://images.unsplash.com/photo-1506157786151-b8491531f063?w=800",
+"link":"articles/top-kpop-groups-2026.html",
+"category":"K-Pop"
+},
+
+{
+"title":"Best Korean Dramas To Watch This Year",
+"description":"Explore the best Korean dramas with romance, action and emotional stories.",
+"image":"https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800",
+"link":"category-kdrama.html",
+"category":"K-Drama"
+},
+
+{
+"title":"Latest K-Pop Comebacks And New Albums",
+"description":"Follow the newest Korean music releases, comeback schedules and artist updates.",
+"image":"https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?w=800",
+"link":"category-kpop.html",
+"category":"K-Pop"
+},
+
+{
+"title":"Korean Actors Who Became Global Stars",
+"description":"Discover famous Korean actors who gained worldwide popularity through dramas and movies.",
+"image":"https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800",
+"link":"category-biography.html",
+"category":"Biography"
+},
+
+{
+"title":"Most Romantic K-Dramas Of All Time",
+"description":"A list of unforgettable Korean romance dramas loved by fans worldwide.",
+"image":"https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800",
+"link":"reviews.html",
+"category":"K-Drama"
+},
+
+{
+"title":"Rising K-Pop Idols To Follow",
+"description":"Meet the new generation of Korean idols making waves in the music industry.",
+"image":"https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800",
+"link":"category-kpop.html",
+"category":"K-Pop"
+},
+
+{
+"title":"K-Drama Review: Story And Characters Explained",
+"description":"Read detailed Korean drama reviews including story, acting and production quality.",
+"image":"https://images.unsplash.com/photo-1586899028174-e7098604235b?w=800",
+"link":"reviews.html",
+"category":"Reviews"
+},
+
+{
+"title":"Famous Korean Female Singers",
+"description":"Explore successful Korean female artists and their musical journeys.",
+"image":"https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=800",
+"link":"category-biography.html",
+"category":"Biography"
+},
+
+{
+"title":"Korean Entertainment Industry Explained",
+"description":"Learn how K-Pop and Korean dramas became global entertainment phenomena.",
+"image":"https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800",
+"link":"news.html",
+"category":"News"
+},
+
+{
+"title":"Upcoming Korean Drama Releases",
+"description":"Discover upcoming Korean series fans are waiting for.",
+"image":"https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800",
+"link":"category-kdrama.html",
+"category":"K-Drama"
+},
+
+{
+"title":"Best Korean Movies Recommended",
+"description":"Explore Korean movies with great stories and performances.",
+"image":"https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800",
+"link":"reviews.html",
+"category":"Movies"
+},
+
+{
+"title":"K-Pop Concerts Around The World",
+"description":"Discover international concerts and global events from Korean artists.",
+"image":"https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=800",
+"link":"news.html",
+"category":"News"
+},
+
+{
+"title":"Korean Idol Training System",
+"description":"Learn how Korean entertainment companies train future idols.",
+"image":"https://images.unsplash.com/photo-1516280440614-37939bbacd81?w=800",
+"link":"category-kpop.html",
+"category":"K-Pop"
+},
+
+{
+"title":"Best Historical Korean Dramas",
+"description":"Explore Korean historical dramas with impressive stories and costumes.",
+"image":"https://images.unsplash.com/photo-1542206395-9feb3edaa68d?w=800",
+"link":"category-kdrama.html",
+"category":"K-Drama"
+},
+
+{
+"title":"Korean Actors Biography Collection",
+"description":"Read biographies and career stories of Korean actors.",
+"image":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+"link":"category-biography.html",
+"category":"Biography"
+},
+
+{
+"title":"K-Pop Fashion Trends",
+"description":"Discover Korean fashion styles inspired by famous idols.",
+"image":"https://images.unsplash.com/photo-1483985988355-763728e1935b?w=800",
+"link":"news.html",
+"category":"Fashion"
+},
+
+{
+"title":"Why Korean Dramas Are Popular Worldwide",
+"description":"Understand why millions of viewers love Korean dramas.",
+"image":"https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800",
+"link":"category-kdrama.html",
+"category":"K-Drama"
+},
+
+{
+"title":"New Generation Of Korean Artists",
+"description":"Discover talented young Korean artists changing entertainment.",
+"image":"https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?w=800",
+"link":"category-kpop.html",
+"category":"K-Pop"
+},
+
+{
+"title":"Korean Drama Ratings And Rankings",
+"description":"Weekly rankings of popular Korean dramas.",
+"image":"https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800",
+"link":"reviews.html",
+"category":"Reviews"
+},
+
+{
+"title":"KStar Daily Entertainment Guide",
+"description":"Your guide to Korean music, dramas and celebrity news.",
+"image":"https://images.unsplash.com/photo-1520637836862-4d197d17c45a?w=800",
+"link":"index.html",
+"category":"Guide"
+}
+
+]

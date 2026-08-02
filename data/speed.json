@@ -1,0 +1,8 @@
+{
+"lazy_loading":true,
+"image_format":"webp",
+"cache":"enabled",
+"compression":"enabled",
+"javascript":"defer",
+"css":"optimized"
+}

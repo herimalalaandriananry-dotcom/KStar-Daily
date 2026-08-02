@@ -1,0 +1,8 @@
+{
+"lazy_loading":true,
+"compress_images":true,
+"minify_css":true,
+"minify_javascript":true,
+"cache_enabled":true,
+"pwa_enabled":true
+}
